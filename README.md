@@ -2,7 +2,7 @@
 
 ## 🛠️ スキル
 - **フロントエンド**: HTML, CSS, JavaScript, Vue.js
-- **バックエンド**: Java, Spring Boot
+- **バックエンド**: Java, Spring Boot, PHP, CakePHP
 - **データベース**: MySQL, Firebase
 - **ツール**: Git, GitHub, Figma
 
